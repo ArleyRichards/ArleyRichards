@@ -1,4 +1,4 @@
-👋 Olá, Eu sou @ArleyRichards
-🎓 Estudante de Engenharia de Software
-🐘 Desenvolvedor PHP Pleno
-🌱 Atualmente aprendendo React...
+👋 Olá, Eu sou @ArleyRichards<br>
+🎓 Estudante de Engenharia de Software<br>
+🐘 Desenvolvedor PHP Pleno<br>
+🌱 Atualmente aprendendo React.<br>
